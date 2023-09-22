@@ -1,0 +1,22 @@
+#pic{
+    background-color: blue;
+    padding: 20px;
+}
+.safi1{
+    color: aliceblue;
+}
+#img1{
+    border: 5px dotted ;
+    border-radius: 50%;
+}
+
+h2{
+    background-color: rgb(127, 255, 212);
+    flex-direction: row;
+}
+#body{
+    background-color: aqua;
+    border: 4px dotted;
+    padding: 50px;
+
+}
