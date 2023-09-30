@@ -22,11 +22,8 @@ body{
     background-color: aqua;
     border: 4px dotted;
     padding: 100px;
+}
 
-}
-#pic img{
-    justify-content: center;
-}
 b{
     background-color:rosybrown;
 }
