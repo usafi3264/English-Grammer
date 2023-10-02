@@ -1,6 +1,7 @@
 .head{
     background-color: blue;
     padding: 20px;
+    border-radius: 20px;
 }
 
 .headerleft{
@@ -17,6 +18,9 @@ h2{
     background-color: rgb(127, 255, 212);
     flex-direction: row;
     padding: 10px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
 }
 body{
     background-color: aqua;
