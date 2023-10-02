@@ -23,11 +23,12 @@ h2{
     border-radius: 15px;
 }
 body{
-    background-color: aqua;
+    background-color: rgb(8, 172, 5);
     border: 4px dotted;
     padding: 100px;
 }
 
 b{
     background-color:rosybrown;
+    padding: 3px;
 }
